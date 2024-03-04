@@ -1,0 +1,2 @@
+# ManagementPlatform
+python实现建筑行业中合并工人进场培训表格和记录工人的进退场情况。
